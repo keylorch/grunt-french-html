@@ -13,7 +13,7 @@ $ npm install -g grunt-cli
 ```
 
 ### Grunt-french-html setup
-1. Download the code to your local environment: <grunt-french-html-path>
+1. Download the code to your local environment: `<grunt-french-html-path>`
 2. Go to the folder that you just downloaded `$ cd <grunt-french-html-path>`
 3. Run the following command `$ npm install`. This will install grunt and the required plugins. 
 
